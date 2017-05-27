@@ -95,7 +95,7 @@ and the repository exists.
 $ git clone https://github.com/monchitonet/Chocolita.git
 ```
 
-Por último, cambia la línea 24 del archivo `gulpfile.js` con los datos de tu servidor. Ingresa a WordPress y activa el tema.
+Por último, cambia la línea 47 del archivo `gulpfile.js` con los datos de tu servidor. Ingresa a WordPress y activa el tema.
 
 ### Corriendo Gulp
 
